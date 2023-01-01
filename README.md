@@ -1,6 +1,6 @@
 # ECommerceApp
 
-# Application url: https://e-commerce-angular-d3bf9.web.app
+## Application url: https://e-commerce-angular-d3bf9.web.app
 
 This angular application allows user to browse and purchase items from online.
 
