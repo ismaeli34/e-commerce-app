@@ -1,5 +1,7 @@
 # ECommerceApp
 
+# Application url: https://e-commerce-angular-d3bf9.web.app
+
 This angular application allows user to browse and purchase items from online.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
